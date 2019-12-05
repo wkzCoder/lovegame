@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "host": ["https://wkzcoder.github.io/lovegame/"],
+    "img":[{"p":1,"img":"https://wkzcoder.github.io/lovegame/hd1.jpg"}],
+    "txt":[{"p":1,"txt":"元旦活动 看视频广告送 10个钻石","adn":10}]
+}
